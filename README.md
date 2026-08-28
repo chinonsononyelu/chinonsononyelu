@@ -37,7 +37,7 @@ IT professional focused on **systems administration, cloud infrastructure and au
 
 ## 💼 Featured Labs & Projects
 
-### 🐧 [Linux Systems Administration & Automation Lab]
+### 🐧 [Linux Systems Administration & Automation Lab](https://github.com/chinonsononyelu/linux-sysadmin-lab)
 A multi-node Linux environment (RHEL + Ubuntu) covering the full sysadmin lifecycle — user and group management, SSH hardening, sudo policies, firewalld, systemd service management, centralized rsyslog aggregation, Prometheus + Grafana monitoring with alerting, Docker and Docker Compose, and Ansible playbook automation across both distributions. Bash scripts for automated cross-node backups, log rotation, and system health monitoring via cron. Served as the primary RHCSA exam prep environment.
 
 **Stack:** RHEL · Ubuntu · Bash · Ansible · Docker · Prometheus · Grafana · rsyslog · SELinux · systemd
