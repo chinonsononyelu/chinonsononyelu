@@ -22,7 +22,7 @@ IT professional focused on **systems administration, cloud infrastructure and au
 - 🐧 **RHCSA certified** — passed using a self-built RHEL/Ubuntu multi-node lab
 - ☁️ Working toward **SAA-C03** (AWS Solutions Architect Associate)
 - 🚀 Passionate about designing reliable, secure, and scalable infrastructure
-- 📍 Based in **Brooklyn, NY** · 
+- 📍 Based in **Brooklyn, NY** · **Language** ( **English** )
 
 ---
 
