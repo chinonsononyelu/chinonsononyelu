@@ -55,6 +55,8 @@ This repository documents my Microsoft 365 administration lab projects. The goal
 <div align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Defender-00B294?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
  <!-- 
