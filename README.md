@@ -44,7 +44,18 @@ A multi-node Linux environment (RHEL + Ubuntu) covering the full sysadmin lifecy
 
 ---
 
+### 🏠 [Microsoft-365-Lab & New User Onboarding](https://github.com/chinonsononyelu/Microsoft-365-Lab)
+This repository documents my Microsoft 365 administration lab projects. The goal of this portfolio is to simulate real-world IT support and Microsoft 365 administrator tasks, including user onboarding, identity management, security, compliance, and access control.
+
+**Stack:** Microsoft Entra ID · Intune · Microsoft365 
+
 ## 🛠️ Tech Stack
+
+### Microsoft 365
+<div align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
 
  <!-- 
 ### Cloud & Monitoring
@@ -64,6 +75,7 @@ A multi-node Linux environment (RHEL + Ubuntu) covering the full sysadmin lifecy
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  
 </div>
 
 ### Scripting & Query
