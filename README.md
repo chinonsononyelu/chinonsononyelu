@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chinonso 👋</h1>
 
 <h3 align="center">
-  Linux · Systems Administration  <!-- · Cloud -->
+  Linux · Systems Administration · IT Support  <!-- · Cloud -->
 </h3>
 
 <p align="center">
